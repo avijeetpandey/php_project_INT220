@@ -39,5 +39,4 @@
 ![Services Page](https://github.com/avijeetpandey/php_project_INT220/blob/master/project_images/category.png)
 
 - Details Page
-![Details Page]
-(https://github.com/avijeetpandey/php_project_INT220/blob/master/project_images/detail.png)
+![Details Page](https://github.com/avijeetpandey/php_project_INT220/blob/master/project_images/detail.png)
